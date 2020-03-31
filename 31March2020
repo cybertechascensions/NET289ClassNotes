@@ -1,0 +1,53 @@
+31 March 2020 Notes
+
+> Home Lab Setup discussion
+  
+  # Leonardo Da Vinci home and how we can setup our home to be the 
+  # the best networking professional we can be
+    - Sufficient hardware
+      * VMware esxi (Type 1) or VMware Workstation (Type 2)
+      * KVM (Type 1)
+      * Hyper-V (Type 1)
+      * Virtualbox
+    - Recommended Specs
+      * 16-36 GB RAM
+      * CPU that supports virtualization
+        + 12 to 24 core
+      * 500 GB-1 TB of storage
+      * 2 to 6 NICs.  1 is ok to start
+      * 1U blade for easy housing or mounting
+    - Laptop or Desktop to access
+    - Third party router to host an OpenVPN server
+    - Recommended methods and websites to aquire equipment
+      * Websites
+        + serversuperstore.com
+        + servermonkey.com
+        + ebay.com
+      * Methods
+        + Reach out to local tech companies
+        + Reach out to local schools and hospital IT depts
+        + Ask fellow peers if they have any hardware they can
+          sell or give
+    - Software
+      * Network Virtualization
+        + GNS3 (Free)
+        + Cisco Packet Tracer (Free)
+        + Cisco VIRL ($200)
+        + Boson Netsim (price depends on what youre studying for)
+      * Operating Systems
+        + Ubuntu Linux
+        + RHEL
+        + Fedora
+        + Kali or Parrot
+        + Windows 10
+        + Windows Server 2016 or newer
+    - Implementation Ideas
+      * Home Media Center
+        + plex.tv
+        + Automated pausing
+      
+  # VMware esxi setup GNS3 and run on network
+  
+  # Portfolio discussion and organize projects done
+
+  - 
